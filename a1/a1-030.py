@@ -1,9 +1,6 @@
 n = int(input())
 numbers = list(map(int, input().split()))
 
-if len(numbers) != 2 * n:
-    exit()
-
 greater_values = []
 
 for i in range(0, 2 * n, 2):
