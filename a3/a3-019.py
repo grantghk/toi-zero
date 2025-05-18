@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-
 N, L = map(int, input().split())
 heights = list(map(int, input().split()))
 customers = list(map(int, input().split()))

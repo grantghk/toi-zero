@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-
 N, K = map(int, input().split())
 colors = [int(input()) for _ in range(N)]
 
