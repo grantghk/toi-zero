@@ -5,6 +5,8 @@ This project was created for learning purposes, specifically for preparing for t
 
 I used the **Python** programming language to build and practice with basic logic, conditions, and input/output handling.
 
+Average score: 80-100%
+
 ---
 
 ## 📌 Purpose
