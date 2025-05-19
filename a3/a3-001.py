@@ -1,6 +1,3 @@
-import sys
-sys.setrecursionlimit(10000)
-
 N = int(input())
 bars = [None]
 
